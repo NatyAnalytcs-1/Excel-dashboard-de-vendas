@@ -51,6 +51,12 @@ Neste projeto, me senti desafiada ao criar um dashboard no Excel. Apesar de já 
 A experiência de trabalhar com **tabelas dinâmicas**, **gráficos interativos** e **layout visual customizado** foi extremamente enriquecedora para mim como profissional de dados.
 
 ---
+## 📥 Download do Arquivo Excel
+
+Clique aqui para baixar o dashboard completo:  
+🔗 [Baixar Dashboard-de-vendas.xlsx](https://raw.githubusercontent.com/NatyAnalytcs-1/Excel-dashboard-de-vendas/main/Dashboard-de-vendas.xlsx)
+
+---
 
 ## 📬 Contato
 
