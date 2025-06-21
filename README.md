@@ -54,8 +54,16 @@ A experiência de trabalhar com **tabelas dinâmicas**, **gráficos interativos*
 
 ## 📥 Download do Arquivo Excel
 
-Clique aqui para baixar o arquivo completo e interagir dashboard🎆 : 
+Clique aqui para baixar o arquivo completo e interagir com o `Dashboard`🎆 : 
 🔗 [Baixar Dashboard-de-vendas.xlsx](https://raw.githubusercontent.com/NatyAnalytcs-1/Excel-dashboard-de-vendas/main/Dashboard-de-vendas.xlsx)
+
+> 🧩 **Dica:** Ao abrir o Excel, você poderá visualizar o dashboard principal.  
+> Algumas abas estão **ocultas propositalmente** para manter a interface limpa.  
+> Para acessar os dados completos e a Tabela Dinâmica:
+> - Clique com o botão direito nas abas inferiores e escolha **“Reexibir”** (ou "Unhide")
+> - Selecione as abas desejadas, como `Bases`, `Cálculos`, etc.
+
+Explore livremente! 📊✨
 
 ---
 
